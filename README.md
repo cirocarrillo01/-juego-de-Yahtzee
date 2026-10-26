@@ -17,10 +17,10 @@
 
 ## 3. Enlaces de interés
 
-| Recurso | Enlace           |
-| ------- | ---------------- |
-| youtube | Agregar enlace 1 |
-| colab   | Agregar enlace 2 |
+| Recurso | Enlace                                                                                                                        |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| youtube | [simulador de yathzee](https://www.youtube.com/watch?v=pY6cZ9cXMuY)                                                           |
+| colab   | [simulador_montecarlo.ipynb](https://colab.research.google.com/drive/1K1nERhtxJ4ZD6kbcc3LmWOEbENHVniMn#scrollTo=qXCxjx1VUMdC) |
 
 ## 4. Descripción del proyecto
 
