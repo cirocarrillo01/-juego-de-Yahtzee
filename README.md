@@ -24,9 +24,17 @@
 
 ## 4. Descripción del proyecto
 
-Este proyecto corresponde al desarrollo de una actividad académica universitaria. Su propósito es aplicar los conocimientos adquiridos en la asignatura mediante el uso del lenguaje de programación Python.
+### Descripción general.
 
-En este repositorio se encuentran los archivos, el código fuente y los recursos relacionados con el desarrollo de la actividad.
+Actividad académica de carácter práctico-experimental que integra conceptos de probabilidad, estadística inferencial, simulación estocástica y programación en Python, mediante la construcción de un simulador del juego de dados Yahtzee. El estudiante parte de un motor de juego funcional, lo comprende, lo modifica y lo extiende, guiado por la metodología de aprendizaje progresivo USA – MODIFICA – CREA. El objetivo central es que el estudiante compruebe empíricamente la Ley de los Grandes Números (LLN) a través de simulación Montecarlo, y cuantifique el efecto de una distribución no uniforme (dado cargado) sobre las probabilidades del juego.
+
+### Metodología de aprendizaje aplicada.
+
+- USA: el estudiante recorre, comprende y depura un código base que no ha escrito. Aprende a leer código ajeno y a detectar errores de diseño que invalidan mediciones.
+
+- MODIFICA: generaliza uno de los componentes del sistema (el modelo del dado) para que pueda adoptar distintas distribuciones sin reescribir la lógica del juego. Aprende a parametrizar soluciones existentes.
+
+- CREA: a partir de lo anterior, genera conocimiento nuevo cálculos exactos por métodos alternativos, análisis de sensibilidad, estudio de combinaciones no triviales que va más allá de lo exigido por la guía.
 
 ## 5. Tecnologías utilizadas
 
