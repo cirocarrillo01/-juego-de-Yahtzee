@@ -2,28 +2,25 @@
 
 ## 1. Datos generales
 
-| Campo                    | Información                |
-| ------------------------ | -------------------------- |
-| Nombre de la actividad   | [Actividad didactica 2-M1] |
-| Nombre del grupo         | [grupos de trabajo 13]     |
-| Materia                  | [simulacion]               |
-| Lenguaje de programación | Python                     |
+| Campo                    | Información              |
+| ------------------------ | ------------------------ |
+| Nombre de la actividad   | Actividad didactica 2-M1 |
+| Nombre del grupo         | grupos de trabajo 35     |
+| Materia                  | simulacion               |
+| Lenguaje de programación | Python                   |
 
 ## 2. Integrantes del equipo
 
-| N.º | Nombre completo                 |
-| --- | ------------------------------- |
-| 1   | [ciro antonio carrillo mendoza] |
-| 2   | [Nombre del integrante 2]       |
-| 3   | [Nombre del integrante 3]       |
-| 4   | [Nombre del integrante 4]       |
+| N.º | Nombre completo               |
+| --- | ----------------------------- |
+| 1   | ciro antonio carrillo mendoza |
 
 ## 3. Enlaces de interés
 
-| Recurso  | Enlace           |
-| -------- | ---------------- |
-| Enlace 1 | Agregar enlace 1 |
-| Enlace 2 | Agregar enlace 2 |
+| Recurso | Enlace           |
+| ------- | ---------------- |
+| youtube | Agregar enlace 1 |
+| colab   | Agregar enlace 2 |
 
 ## 4. Descripción del proyecto
 
